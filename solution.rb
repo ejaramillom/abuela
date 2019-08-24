@@ -8,6 +8,6 @@ post '/nuevo/objeto' do
 	if params[:frase] == params[:frase].upcase
 		"<h1>Ahh si! manzanas</h1>"
 	else
-		"<h1>hable mas duro</h1>"
+		"<h1>Habla más duro mijito</h1>"
 	end
 end
